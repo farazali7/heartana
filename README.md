@@ -1,6 +1,6 @@
 [sample-pcg]: ./heart_sound_classification/testing_plots/sample_pcg.png
 
-[model-algorithm]: ./heart_sound_classification/testing_plots/mfp2_algorithm(lfp).png
+[model-algorithm]: ./heart_sound_classification/testing_plots/mfp2_algorithm(lfp)v2.png
 
 [hyperplane-example]: ./heart_sound_classification/testing_plots/hyperplane-example.png
 [nonlinear-example]: ./heart_sound_classification/testing_plots/nonlinear-example.png
