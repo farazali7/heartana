@@ -1,0 +1,7 @@
+venv/
+database_component.zip
+.idea/
+sample_heart_sounds/
+sample_heart_sounds.zip
+*.xlsx
+*.pickle

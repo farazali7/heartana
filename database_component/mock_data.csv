@@ -1,0 +1,6 @@
+﻿patient_id,patient_age,contact_info,patient_physician_id,record_id,health_record,health_patient_id,ausc_id,ausc_info,ausc_patient_id,physician_id,physician_contact
+1,22,3138889292,6,11,none,1,16,10/10/2020 abnormal,1,6,2134524443
+2,34,3138889292,7,12,arrythmias,2,17,01/09/2019 normal,2,7,2134524443
+3,76,3138889292,8,13,fever,3,18,31/12/2011 normal,3,8,2134524443
+4,58,3138889292,9,14,none,4,19,14/12/2011 normal,4,9,2134524443
+5,88,3138889292,10,15,covid-19,5,20,16/05/2018 abnormal,5,10,2134524443
